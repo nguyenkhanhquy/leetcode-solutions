@@ -1,4 +1,4 @@
-# Book Store API
+# LeetCode Solutions
 
 This repository contains my solutions to problems on LeetCode.
 
