@@ -2,9 +2,9 @@ import java.util.HashMap;
 import java.util.Stack;
 
 public class Solution {
-    static public boolean isValid(String s) {
+    public static boolean isValid(String s) {
 
-        if (s.length() < 2) {
+        if (s.length() % 2 != 0) {
             return false;
         }
 
